@@ -1,0 +1,21 @@
+{
+"agencyName": "Tasin's AI Lab",
+"owner": "Shahriar Tasin",
+"location": { 
+    "city": "Chittagong",
+    "country": "Bangladesh"},
+
+"services": [
+"AI Automation",
+"Chatbot Development",
+"Workflow Integration",
+"Lead Generation"
+],
+"acceptingClients": true,
+"targetIncome/month": 10000,
+"foundedYear": 2026,
+"contact": {
+    "email": "tasinsailab@gmail.com",
+    "platform":"Fiverr"
+}
+}
